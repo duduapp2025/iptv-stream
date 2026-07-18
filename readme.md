@@ -1,7 +1,10 @@
-## Base Log @ 2026-07-18 15:28 UTC
+## Base Log @ 2026-07-18 21:12 UTC
 
-### ✅ Working Streams: 154<br>❌ Dead Streams: 0
+### ✅ Working Streams: 153<br>❌ Dead Streams: 1
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| Game Show Network | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
 ---
 #### Base Channels URL
 ```
