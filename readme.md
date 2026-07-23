@@ -1,10 +1,17 @@
-## Base Log @ 2026-07-23 10:39 UTC
+## Base Log @ 2026-07-23 16:08 UTC
 
-### ✅ Working Streams: 153<br>❌ Dead Streams: 1
+### ✅ Working Streams: 146<br>❌ Dead Streams: 8
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| BBC One | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
+| NBC Sports Philadelphia | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
+| Premier Sports 1 | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
+| Premier Sports 2 | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
+| STV | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
+| Sky Sports Football | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
+| Sky Sports Premier League | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
 ---
 #### Base Channels URL
 ```
