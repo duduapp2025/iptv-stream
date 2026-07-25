@@ -1,9 +1,10 @@
-## Base Log @ 2026-07-25 15:37 UTC
+## Base Log @ 2026-07-25 21:16 UTC
 
-### ✅ Working Streams: 152<br>❌ Dead Streams: 2
+### ✅ Working Streams: 151<br>❌ Dead Streams: 3
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| AMC | HTTP Error (404) | `http://41.205.93.154/AMC/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 ---
