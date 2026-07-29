@@ -1,12 +1,11 @@
-## Base Log @ 2026-07-29 16:02 UTC
+## Base Log @ 2026-07-29 21:26 UTC
 
-### ✅ Working Streams: 151<br>❌ Dead Streams: 3
+### ✅ Working Streams: 152<br>❌ Dead Streams: 2
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
-| beIN Sports 1 | HTTP Error (403) | `http://99.27.51.147:8080/BeinSport/mpegts` |
 ---
 #### Base Channels URL
 ```
