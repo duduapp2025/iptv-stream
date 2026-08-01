@@ -1,11 +1,13 @@
-## Base Log @ 2026-08-01 10:14 UTC
+## Base Log @ 2026-08-01 15:35 UTC
 
-### ✅ Working Streams: 152<br>❌ Dead Streams: 2
+### ✅ Working Streams: 150<br>❌ Dead Streams: 4
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| A&E TV | HTTP Error (403) | `http://206.212.244.63/1/index.m3u8` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
+| Fox News | HTTP Error (403) | `http://206.212.244.63/67/index.m3u8` |
 ---
 #### Base Channels URL
 ```
