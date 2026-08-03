@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-02 21:16 UTC
+## Base Log @ 2026-08-03 11:54 UTC
 
-### ✅ Working Streams: 147<br>❌ Dead Streams: 7
+### ✅ Working Streams: 140<br>❌ Dead Streams: 14
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,9 +8,16 @@
 | BET | HTTP Error (403) | `http://206.212.244.63/16/index.m3u8` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
+| Discovery Family Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
+| Discovery Life | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
+| ESPN News | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
 | ESPN | HTTP Error (403) | `http://206.212.244.63/59/index.m3u8` |
 | Fox News | HTTP Error (403) | `http://206.212.244.63/67/index.m3u8` |
+| MLB Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | HTTP Error (403) | `http://206.212.244.63/114/index.m3u8` |
+| NESN | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
+| Oxygen | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts` |
 ---
 #### Base Channels URL
 ```
