@@ -1,11 +1,10 @@
-## Base Log @ 2026-08-12 21:11 UTC
+## Base Log @ 2026-08-13 09:38 UTC
 
-### ✅ Working Streams: 70<br>❌ Dead Streams: 84
+### ✅ Working Streams: 72<br>❌ Dead Streams: 82
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | cURL Error (28) | `http://206.212.244.63/1/index.m3u8` |
-| AMC | cURL Error (28) | `http://41.205.93.154/AMC/index.m3u8` |
 | AXS TV | cURL Error (28) | `http://206.212.244.63/12/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
@@ -43,7 +42,6 @@
 | INSP | cURL Error (28) | `http://206.212.244.63/95/index.m3u8` |
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
-| Lifetime | cURL Error (28) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
