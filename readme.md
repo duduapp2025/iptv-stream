@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-13 21:12 UTC
+## Base Log @ 2026-08-14 09:33 UTC
 
-### ✅ Working Streams: 70<br>❌ Dead Streams: 84
+### ✅ Working Streams: 69<br>❌ Dead Streams: 85
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -43,6 +43,7 @@
 | INSP | cURL Error (28) | `http://206.212.244.63/95/index.m3u8` |
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
+| Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
@@ -55,6 +56,7 @@
 | Nat Geo Wild | cURL Error (28) | `http://206.212.244.63/123/index.m3u8` |
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
 | Newsmax TV | cURL Error (28) | `http://206.212.244.63/128/index.m3u8` |
+| Nick Jr | HTTP Error (404) | `http://40.160.24.55/NICK_JR/index.m3u8` |
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
 | Ovation | cURL Error (28) | `http://206.212.244.63/134/index.m3u8` |
 | Oxygen | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
@@ -86,7 +88,6 @@
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
-| beIN Sports 1 | HTTP Error (403) | `http://99.27.51.147:8080/BeinSport/mpegts` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
 ---
 #### Base Channels URL
