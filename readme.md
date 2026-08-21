@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-21 09:07 UTC
+## Base Log @ 2026-08-21 15:01 UTC
 
-### ✅ Working Streams: 69<br>❌ Dead Streams: 85
+### ✅ Working Streams: 68<br>❌ Dead Streams: 86
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,6 +13,7 @@
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
+| CBS | HTTP Error (404) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
 | CNBC | cURL Error (28) | `http://206.212.244.63/41/index.m3u8` |
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
