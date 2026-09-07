@@ -1,4 +1,4 @@
-## Base Log @ 2026-09-07 14:21 UTC
+## Base Log @ 2026-09-07 18:48 UTC
 
 ### ✅ Working Streams: 69<br>❌ Dead Streams: 85
 
@@ -80,11 +80,11 @@
 | Sportsnet One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
 | Starz Encore Classic | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
 | TLC | cURL Error (28) | `http://206.212.244.63/159/index.m3u8` |
-| TSN1 | cURL Error (56) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
+| TSN1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
 | TV Land | cURL Error (28) | `http://206.212.244.63/164/index.m3u8` |
 | TV One | cURL Error (28) | `http://206.212.244.63/166/index.m3u8` |
-| Telemundo | cURL Error (56) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts` |
+| Telemundo | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts` |
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
