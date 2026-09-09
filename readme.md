@@ -1,10 +1,11 @@
-## Base Log @ 2026-09-09 13:03 UTC
+## Base Log @ 2026-09-09 17:53 UTC
 
-### ✅ Working Streams: 69<br>❌ Dead Streams: 85
+### ✅ Working Streams: 64<br>❌ Dead Streams: 90
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | cURL Error (28) | `http://206.212.244.63/1/index.m3u8` |
+| AMC | HTTP Error (404) | `http://41.205.93.154/AMC/index.m3u8` |
 | AXS TV | cURL Error (28) | `http://206.212.244.63/12/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
@@ -25,9 +26,11 @@
 | Disney Channel | cURL Error (28) | `http://206.212.244.63/650/index.m3u8` |
 | Disney Jr | cURL Error (28) | `http://206.212.244.63/655/index.m3u8` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
+| ESPN U | HTTP Error (404) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
 | ESPN | cURL Error (28) | `http://206.212.244.63/59/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
+| FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
 | Fox Business | cURL Error (28) | `http://206.212.244.63/66/index.m3u8` |
 | Fox News | cURL Error (28) | `http://206.212.244.63/67/index.m3u8` |
@@ -52,6 +55,7 @@
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
+| NFL Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
 | NHL Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
 | Nat Geo Wild | cURL Error (28) | `http://206.212.244.63/123/index.m3u8` |
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
@@ -79,6 +83,7 @@
 | Sportsnet East | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts` |
 | Sportsnet One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
 | Starz Encore Classic | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
+| Starz | HTTP Error (404) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
 | TLC | cURL Error (28) | `http://206.212.244.63/159/index.m3u8` |
 | TSN1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
