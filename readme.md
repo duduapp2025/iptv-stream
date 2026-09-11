@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-10 22:42 UTC
+## Base Log @ 2026-09-11 12:55 UTC
 
-### ✅ Working Streams: 56<br>❌ Dead Streams: 98
+### ✅ Working Streams: 54<br>❌ Dead Streams: 100
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -53,6 +53,7 @@
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
+| Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
@@ -69,6 +70,7 @@
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
 | Newsmax TV | cURL Error (28) | `http://206.212.244.63/128/index.m3u8` |
 | Nick Jr | HTTP Error (404) | `http://40.160.24.55/NICK_JR/index.m3u8` |
+| Nickelodeon | HTTP Error (404) | `http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8` |
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
 | Ovation | cURL Error (28) | `http://206.212.244.63/134/index.m3u8` |
 | Oxygen | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
