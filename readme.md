@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-15 18:20 UTC
+## Base Log @ 2026-09-15 23:00 UTC
 
-### ✅ Working Streams: 54<br>❌ Dead Streams: 100
+### ✅ Working Streams: 53<br>❌ Dead Streams: 101
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -103,6 +103,7 @@
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| beIN Sports 1 | HTTP Error (403) | `http://99.27.51.147:8080/BeinSport/mpegts` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
 ---
 #### Base Channels URL
