@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-01 15:33 UTC
+## Base Log @ 2026-10-02 00:00 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 102
+### ✅ Working Streams: 51<br>❌ Dead Streams: 103
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -61,6 +61,7 @@
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports California | cURL Error (28) | `http://stream.cammonitorplus.net/1795/index.m3u8` |
+| NBC Sports NOW | cURL Error (28) | `https://jmp2.uk/stvp-USBD420002446` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NBC | cURL Error (28) | `http://stream.cammonitorplus.net/1765/index.m3u8` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
