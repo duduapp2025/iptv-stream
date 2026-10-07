@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-06 23:56 UTC
+## Base Log @ 2026-10-07 15:40 UTC
 
 ### ✅ Working Streams: 47<br>❌ Dead Streams: 107
 
@@ -62,8 +62,8 @@
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | cURL Error (28) | `http://206.212.244.63/113/index.m3u8` |
-| NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
-| NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
+| NBC Sports Bay Area | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
+| NBC Sports Boston | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports California | cURL Error (28) | `http://stream.cammonitorplus.net/1795/index.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NBC | cURL Error (28) | `http://stream.cammonitorplus.net/1765/index.m3u8` |
