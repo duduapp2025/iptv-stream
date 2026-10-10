@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-10 14:34 UTC
+## Base Log @ 2026-10-10 23:42 UTC
 
 ### ✅ Working Streams: 47<br>❌ Dead Streams: 107
 
@@ -46,7 +46,7 @@
 | Game Show Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
 | Golf Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts` |
 | Grit TV | cURL Error (28) | `http://206.212.244.63/83/index.m3u8` |
-| HBO Comedy | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
+| HBO Comedy | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
 | HBO Zone | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
 | HBO | HTTP Error (404) | `http://40.160.24.53/HBO_HD/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
@@ -109,7 +109,7 @@
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
-| beIN Sports 1 | HTTP Error (403) | `http://99.27.51.147:8080/BeinSport/mpegts` |
+| beIN Sports 1 | cURL Error (28) | `http://99.27.51.147:8080/BeinSport/mpegts` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
 ---
 #### Base Channels URL
