@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-13 16:12 UTC
+## Base Log @ 2026-10-13 23:48 UTC
 
 ### ✅ Working Streams: 47<br>❌ Dead Streams: 107
 
@@ -48,7 +48,7 @@
 | Grit TV | cURL Error (28) | `http://206.212.244.63/83/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
 | HBO Zone | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
-| HBO | HTTP Error (404) | `http://40.160.24.53/HBO_HD/index.m3u8` |
+| HBO | cURL Error (28) | `http://40.160.24.53/HBO_HD/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | cURL Error (28) | `http://206.212.244.63/85/index.m3u8` |
 | Hallmark Mystery | cURL Error (28) | `http://206.212.244.63/86/index.m3u8` |
@@ -56,7 +56,7 @@
 | INSP | cURL Error (28) | `http://206.212.244.63/95/index.m3u8` |
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
-| Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
+| Investigation Discovery | cURL Error (28) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
