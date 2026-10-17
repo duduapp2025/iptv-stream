@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-17 17:24 UTC
+## Base Log @ 2026-10-17 22:30 UTC
 
-### ✅ Working Streams: 45<br>❌ Dead Streams: 109
+### ✅ Working Streams: 43<br>❌ Dead Streams: 111
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,6 +11,7 @@
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
 | BBC One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts` |
+| BBC World News | cURL Error (52) | `https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8` |
 | BET | cURL Error (28) | `http://206.212.244.63/16/index.m3u8` |
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
@@ -59,6 +60,7 @@
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
+| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
