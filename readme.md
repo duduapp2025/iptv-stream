@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-17 22:30 UTC
+## Base Log @ 2026-10-18 12:42 UTC
 
-### ✅ Working Streams: 43<br>❌ Dead Streams: 111
+### ✅ Working Streams: 44<br>❌ Dead Streams: 110
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,7 +11,6 @@
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
 | BBC One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts` |
-| BBC World News | cURL Error (52) | `https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8` |
 | BET | cURL Error (28) | `http://206.212.244.63/16/index.m3u8` |
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
