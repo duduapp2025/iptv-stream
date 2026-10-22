@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-21 23:29 UTC
+## Base Log @ 2026-10-22 13:58 UTC
 
-### ✅ Working Streams: 43<br>❌ Dead Streams: 111
+### ✅ Working Streams: 44<br>❌ Dead Streams: 110
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,7 +17,6 @@
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CBS | cURL Error (28) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
 | CNBC | cURL Error (28) | `http://206.212.244.63/41/index.m3u8` |
-| CNN | cURL Error (28) | `https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8` |
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cinemax | HTTP Error (404) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
