@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-06 01:00 UTC
+## Base Log @ 2026-11-06 16:04 UTC
 
-### ✅ Working Streams: 43<br>❌ Dead Streams: 111
+### ✅ Working Streams: 44<br>❌ Dead Streams: 110
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,7 +42,6 @@
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
 | Fox Business | cURL Error (28) | `http://206.212.244.63/66/index.m3u8` |
 | Fox News | cURL Error (28) | `http://206.212.244.63/67/index.m3u8` |
-| Fox Sports 2 | HTTP Error (504) | `https://cdn.telecloud.tv/CH3225/index.m3u8` |
 | Fox | cURL Error (28) | `http://stream.cammonitorplus.net/1752/index.m3u8` |
 | Freeform TV | cURL Error (28) | `http://206.212.244.63/69/index.m3u8` |
 | Game Show Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
@@ -50,7 +49,7 @@
 | Grit TV | cURL Error (28) | `http://206.212.244.63/83/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
 | HBO Zone | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
-| HBO | cURL Error (28) | `http://40.160.24.53/HBO_HD/index.m3u8` |
+| HBO | HTTP Error (404) | `http://40.160.24.53/HBO_HD/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | cURL Error (28) | `http://206.212.244.63/85/index.m3u8` |
 | Hallmark Mystery | cURL Error (28) | `http://206.212.244.63/86/index.m3u8` |
