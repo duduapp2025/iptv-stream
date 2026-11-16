@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-15 15:46 UTC
+## Base Log @ 2026-11-16 00:05 UTC
 
-### ✅ Working Streams: 44<br>❌ Dead Streams: 110
+### ✅ Working Streams: 43<br>❌ Dead Streams: 111
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,6 +42,7 @@
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
 | Fox Business | cURL Error (28) | `http://206.212.244.63/66/index.m3u8` |
 | Fox News | cURL Error (28) | `http://206.212.244.63/67/index.m3u8` |
+| Fox Sports 2 | HTTP Error (504) | `https://cdn.telecloud.tv/CH3225/index.m3u8` |
 | Fox | cURL Error (28) | `http://stream.cammonitorplus.net/1752/index.m3u8` |
 | Freeform TV | cURL Error (28) | `http://206.212.244.63/69/index.m3u8` |
 | Game Show Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
