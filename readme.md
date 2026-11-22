@@ -1,4 +1,4 @@
-## Base Log @ 2026-11-22 00:33 UTC
+## Base Log @ 2026-11-22 16:31 UTC
 
 ### ✅ Working Streams: 18<br>❌ Dead Streams: 136
 
@@ -138,7 +138,7 @@
 | We Tv | cURL Error (28) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | YES Network | cURL Error (28) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
-| beIN Sports 1 | cURL Error (28) | `http://99.27.51.147:8080/BeinSport/mpegts` |
+| beIN Sports 1 | HTTP Error (403) | `http://99.27.51.147:8080/BeinSport/mpegts` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
 ---
 #### Base Channels URL
